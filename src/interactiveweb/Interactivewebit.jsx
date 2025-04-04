@@ -50,9 +50,7 @@ const Interactivewebit = () =>{
                 }
              
                </script>
-
-
-            
+                
             </div>
             {/* <button>Login</button>
             <button>Register</button>
@@ -80,8 +78,6 @@ const Interactivewebit = () =>{
     
             </div>
             
-            
-    
             <div className="images">
             <img src={invest} alt="invest" />
             {/* <img src={heroimage} alt="an image of a guy standing while holding a laptop" />
